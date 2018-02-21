@@ -1,0 +1,26 @@
+Resultado de la Suma de Matrices:
+109  109
+135  135
+
+Resultado de la Resta de Matrices:
+38  38
+37  37
+
+Resultado de la Multiplicacion de Matrices:
+108  108  108
+150  150  150
+5332  5332  5332
+
+Resultado de la Determinante de Matrices:
+0
+Resultado de la Transpuesta de la Matrice:
+10  91  61  64
+10  91  61  64
+10  91  61  64
+10  91  61  64
+
+Resultado de la ESCALAR de la Matrice:
+51  51  51
+252  252  252
+120  120  120
+
